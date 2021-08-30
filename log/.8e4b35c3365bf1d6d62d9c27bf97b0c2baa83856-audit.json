@@ -1,0 +1,44 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 50
+    },
+    "auditLog": "D:\\b.20210713_Nodejs\\log\\.8e4b35c3365bf1d6d62d9c27bf97b0c2baa83856-audit.json",
+    "files": [
+        {
+            "date": 1627039451269,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210723.log",
+            "hash": "48de9b940517c9e8693198040f10b5dc"
+        },
+        {
+            "date": 1627469908325,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210728.log",
+            "hash": "0e359eff10eaded001b8b0e40129dd41"
+        },
+        {
+            "date": 1627642450186,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210730.log",
+            "hash": "2705e8505ca569beee22b6f286eeca51"
+        },
+        {
+            "date": 1627988022867,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210803.log",
+            "hash": "ebd9b80114e07babfe79b69f0a1b8faf"
+        },
+        {
+            "date": 1628070749063,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210804.log",
+            "hash": "6e8ed29ecbdac16907ccb3cc97792dcf"
+        },
+        {
+            "date": 1628591649040,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210810.log",
+            "hash": "5c2f7500b6fce4241bb68a2464e57a70"
+        },
+        {
+            "date": 1628678412528,
+            "name": "D:\\b.20210713_Nodejs\\log\\log_210811.log",
+            "hash": "a960667129d19b19b78601dab03f85f7"
+        }
+    ]
+}

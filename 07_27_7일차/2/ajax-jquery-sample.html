@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <input type="text" id="foo"> + 
+    <input type="text" id="bar"> >= <span id="console"></span>
+    <button id="execute">결과보기</button>
+
+    <script src="//code.jquery.com/jquery.min.js"></script>
+    <script>
+        $(() => {
+            $("#execute").click(() => {
+                $.get('http://itpaper.co.kr/data/get.php',{
+                    
+                })
+            })
+        })
+    </script>
+
+</body>
+</html>

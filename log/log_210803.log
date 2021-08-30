@@ -1,0 +1,137 @@
+21/08/03 20:20:41 852 [debug]: 	-------------------------------------
+21/08/03 20:20:41 853 [debug]: 	-------------------------------------
+21/08/03 20:20:41 853 [debug]: 	undefined,undefined
+21/08/03 20:21:07 294 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:21:07 294 [debug]: 	http://localhost:3000/send_get/http://localhost:3000/send_get
+21/08/03 20:21:07 299 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 5
+21/08/03 20:21:07 300 [debug]: 	
+21/08/03 20:21:27 838 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:21:27 839 [debug]: 	http://localhost:3000/08_03/send_get_by_form.html/http://localhost:3000/08_03/send_get_by_form.html
+21/08/03 20:21:27 842 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 4
+21/08/03 20:21:27 842 [debug]: 	
+21/08/03 20:21:31 638 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:21:31 639 [debug]: 	http://localhost:3000/send_get%3Fanswer=2&username=&password=&email=/http://localhost:3000/send_get?answer=2&username=&password=&email=
+21/08/03 20:21:31 639 [debug]: 	frontend로부터 전달받은 변수 ::: answer=2
+21/08/03 20:21:31 639 [debug]: 	frontend로부터 전달받은 변수 ::: username=
+21/08/03 20:21:31 639 [debug]: 	frontend로부터 전달받은 변수 ::: password=
+21/08/03 20:21:31 639 [debug]: 	frontend로부터 전달받은 변수 ::: email=
+21/08/03 20:21:31 640 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 1
+21/08/03 20:21:31 640 [debug]: 	
+21/08/03 20:21:35 664 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:21:35 665 [debug]: 	http://localhost:3000/send_get%3Fanswer=300&username=&password=&email=/http://localhost:3000/send_get?answer=300&username=&password=&email=
+21/08/03 20:21:35 665 [debug]: 	frontend로부터 전달받은 변수 ::: answer=300
+21/08/03 20:21:35 665 [debug]: 	frontend로부터 전달받은 변수 ::: username=
+21/08/03 20:21:35 665 [debug]: 	frontend로부터 전달받은 변수 ::: password=
+21/08/03 20:21:35 665 [debug]: 	frontend로부터 전달받은 변수 ::: email=
+21/08/03 20:21:35 666 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 2
+21/08/03 20:21:35 666 [debug]: 	
+21/08/03 20:22:01 943 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:22:01 943 [debug]: 	http://localhost:3000/08_03/send_get_by_js.html/http://localhost:3000/08_03/send_get_by_js.html
+21/08/03 20:22:01 944 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 1
+21/08/03 20:22:01 944 [debug]: 	
+21/08/03 20:22:14 488 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:22:14 488 [debug]: 	http://localhost:3000/send_get%3Fanswer=100/http://localhost:3000/send_get?answer=100
+21/08/03 20:22:14 488 [debug]: 	frontend로부터 전달받은 변수 ::: answer=100
+21/08/03 20:22:14 489 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 1
+21/08/03 20:22:14 489 [debug]: 	
+21/08/03 20:22:17 587 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:22:17 587 [debug]: 	http://localhost:3000/send_get%3Fanswer=300/http://localhost:3000/send_get?answer=300
+21/08/03 20:22:17 588 [debug]: 	frontend로부터 전달받은 변수 ::: answer=300
+21/08/03 20:22:17 588 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 1
+21/08/03 20:22:17 588 [debug]: 	
+21/08/03 20:22:39 478 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 20:22:39 479 [debug]: 	http://localhost:3000/send_get%3Fanswer=400/http://localhost:3000/send_get?answer=400
+21/08/03 20:22:39 479 [debug]: 	frontend로부터 전달받은 변수 ::: answer=400
+21/08/03 20:22:39 480 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 1
+21/08/03 20:22:39 480 [debug]: 	
+21/08/03 21:02:04 833 [debug]: 	-------------------------------------
+21/08/03 21:02:04 835 [debug]: 	-------------------------------------
+21/08/03 21:02:04 835 [debug]: 	undefined,undefined
+21/08/03 21:02:30 146 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:02:30 148 [debug]: 	http://localhost:3000/send_url_by_form.html/http://localhost:3000/send_url_by_form.html
+21/08/03 21:02:30 153 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 6
+21/08/03 21:02:30 154 [debug]: 	
+21/08/03 21:03:11 082 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:11 082 [debug]: 	http://localhost:3000/08_03send_url_by_form.html/http://localhost:3000/08_03send_url_by_form.html
+21/08/03 21:03:11 083 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 1
+21/08/03 21:03:11 083 [debug]: 	
+21/08/03 21:03:16 949 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:16 949 [debug]: 	http://localhost:3000/08_03/send_url_by_form.html/http://localhost:3000/08_03/send_url_by_form.html
+21/08/03 21:03:16 952 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 3
+21/08/03 21:03:16 952 [debug]: 	
+21/08/03 21:03:20 152 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:20 152 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:20 153 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:20 153 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:21 310 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:21 310 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:21 311 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:21 311 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:21 714 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:21 714 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:21 714 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:21 714 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:21 879 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:21 879 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:21 880 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:21 880 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:22 029 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:22 029 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:22 029 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:22 029 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:22 194 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:22 194 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:22 194 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:22 194 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:22 554 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:22 554 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:22 555 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:22 555 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:22 719 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:22 719 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:22 719 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:22 720 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:22 871 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:22 871 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:22 871 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:22 871 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:03:23 027 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:03:23 028 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:03:23 028 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:03:23 028 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:39 968 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:39 969 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:39 969 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:39 969 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:40 741 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:40 742 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:40 742 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:40 742 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:40 915 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:40 915 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:40 916 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:40 916 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:41 079 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:41 080 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:41 080 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:41 080 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:41 245 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:41 245 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:41 246 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:41 246 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:41 409 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:41 410 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:41 410 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:41 410 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:41 582 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:41 582 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:41 583 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:41 583 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:41 762 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:41 762 [debug]: 	http://localhost:3000/send_url/undefined/undefined/http://localhost:3000/send_url/undefined/undefined
+21/08/03 21:04:41 763 [debug]: 	frontend로부터 전달받은 변수 ::: username=undefined
+21/08/03 21:04:41 763 [debug]: 	frontend로부터 전달받은 변수 ::: age=undefined
+21/08/03 21:04:55 088 [debug]: 	 --- 클라이언트가 접속했습니다. ---
+21/08/03 21:04:55 089 [debug]: 	http://localhost:3000/send_url/http://localhost:3000/send_url
+21/08/03 21:04:55 089 [debug]: 	클라이언트의 접속이 종료되었습니다. [runtime] 0
+21/08/03 21:04:55 090 [debug]: 	
